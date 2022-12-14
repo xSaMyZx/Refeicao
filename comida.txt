@@ -1,3 +1,4 @@
 Pizza
 Lasanha
 Pista Hot Whells Ataque Tubarão
+ NVIDIA® GeForce RTX® 4090
